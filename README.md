@@ -20,7 +20,6 @@ Contact me through Discord @Atif_uz_Zaman#0001
 - [X] Baby Web Developer 
 - Always ready to explore!
 
-![MdAtifuzzaman01's GitHub stats](https://github-readme-stats.vercel.app/api?username=MdAtifuzzaman01&count_private=true&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MdAtifuzzaman01&layout=compact&langs_count=30)](https://github.com/anuraghazra/github-readme-stats)
-
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=MdAtifuzzaman01&count_private=true&line_height=21&show_icons=true&hide_border=true&theme=dracula"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdAtifuzzaman01&layout=compact&card_width=250&hide_border=true&theme=dracula"/>
 
